@@ -1,17 +1,17 @@
 const quizData = [
 	{
-		question: 'Zac Hanson, the younger brother from Hanson band ¿how old was him when they released the superhit Mmmbop in 1997?',
-		a:'15',
-		b:'11',
-		c:'18',
-		d:'23',
+		question: 'What is the capital of Finland?',
+		a:'Oslo',
+		b:'Helsinki',
+		c:'Reikiavik',
+		d:'Stockholm',
 		correct: 'b'
 	}, {
-		question: 'Eminem‘s 8 Mile is named after a road in which city?',
-		a: 'Indiana',
-		b: 'Brooklyn',
-		c: 'Houston',
-		d: 'Detroit',
+		question: `What is the most watched TV show on Netflix ever?`,
+		a: 'Money Heist (part 5), a Spanish-language thriller',
+		b: 'Stranger Things (season 4), a retro sci-fi series',
+		c: 'Ozark (season 4), a crime drama series',
+		d: 'Squid Game (season 1), a Korean survival thriller',
 		correct: 'd'
 	}, {
 		question: 'What was the first music video to ever air on MTV?',
